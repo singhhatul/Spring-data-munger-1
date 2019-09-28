@@ -1,0 +1,23 @@
+
+>squid:S1168–"&Return an empty array instead of null.(•πÔç
+isquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(·©¢Û8˝πÈãø-
+osquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∫´‰98’≤‚ãø-
+psquid:S00117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æªû…8˝πÈãø-
+osquid:S00117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∫´‰98˝πÈãø-
+Esquid:S1168ô"&Return an empty array instead of null.(•πÔç8Î≤∆çø-
+usquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ﬂêçµ˛ˇˇˇˇ8‘∂Âãø-
+psquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹∂ëÛ8‘∂Âãø-
+usquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö∂ﬁπ˙ˇˇˇˇ8‘∂Âãø-
+psquid:S00117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë≠öã8∂˙íçø-
+@squid:S1643í"Use a StringBuilder instead.(ƒÎôÖ˛ˇˇˇˇ8Î≤∆çø-
+Åsquid:S1488i"^Immediately return this expression instead of assigning it to the temporary variable "fields".(Ù⁄úπ˝ˇˇˇˇ8˝πÈãø-
+jsquid:S1192|"GDefine a constant instead of duplicating this literal "where " 3 times.(êª¢ñ˛ˇˇˇˇ8îÓ∏çø-
+osquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—˛Óc8’≤‚ãø-
+usquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŒÁ˘˙ˇˇˇˇ8‘∂Âãø-
+gsquid:S1192M"IDefine a constant instead of duplicating this literal "order by" 6 times.(ΩÏıë8∂˙íçø-
+lsquid:S1858Œ"M"getLogical" is already a string, there's no need to call "toString()" on it.(µ§∏Æ8îÓ∏çø-
+Ésquid:S14886"`Immediately return this expression instead of assigning it to the temporary variable "filename".(æÊ∫»˘ˇˇˇˇ8’≤‚ãø-
+gsquid:S1192J"IDefine a constant instead of duplicating this literal "group by" 7 times.(ù∞¬ﬁ8∂˙íçø-
+;squid:S1643À"Use a StringBuilder instead.(·®›Æ8îÓ∏çø-
+dsquid:S1192G"FDefine a constant instead of duplicating this literal "where" 3 times.(ûˇã≤8ÙŒ¨çø-
+Lsquid:S1125ñ"(Remove the literal "true" boolean value.(ë¶æé˚ˇˇˇˇ8Î≤∆çø-

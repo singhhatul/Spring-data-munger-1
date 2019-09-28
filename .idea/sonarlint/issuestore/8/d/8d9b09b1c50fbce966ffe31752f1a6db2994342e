@@ -1,0 +1,7 @@
+
+dsquid:S1192)"HDefine a constant instead of duplicating this literal "ipl.csv" 5 times.(ÛÜúÿÿÿÿ
+bsquid:CallToDeprecatedMethod+"4Remove this use of "assertEquals"; it is deprecated.(Ë˜£8‰¢ò‹¿-
+csquid:CallToDeprecatedMethod("4Remove this use of "assertEquals"; it is deprecated.(ŒáìÄ8‰¢ò‹¿-
+ˆsquid:S1192B"lDefine a constant instead of duplicating this literal "select city,winner,team1,team2 from ipl.csv" 3 times.(—¦Ö£ıÿÿÿÿ
+csquid:CallToDeprecatedMethod/"4Remove this use of "assertEquals"; it is deprecated.(ÆÎÚ›8‰¢ò‹¿-
+csquid:S1192)"GDefine a constant instead of duplicating this literal "select" 3 times.(ÛÜúÿÿÿÿ

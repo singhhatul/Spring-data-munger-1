@@ -1,0 +1,10 @@
+
+csquid:CallToDeprecatedMethodN"4Remove this use of "assertEquals"; it is deprecated.(î˜„8èòí‹¿-
+Îsquid:S1192'"¶Define a constant instead of duplicating this literal "Please note that AND/OR can exist as a substring in the conditions as well. For eg: name='Alexander',color='Red' etc." 3 times.(•ñÌğ
+csquid:CallToDeprecatedMethod/"4Remove this use of "assertEquals"; it is deprecated.(†å©Ş8èòí‹¿-
+csquid:CallToDeprecatedMethod&"4Remove this use of "assertEquals"; it is deprecated.(†å©Ş8èòí‹¿-
+èsquid:S11924"ĞDefine a constant instead of duplicating this literal "testGetLogicalOperatorsFailure() :Retrieval of Logical Operators failed. AND/OR keyword will exist in the query only if where conditions exists and it contains multiple conditions.The extracted logical operators will be stored in a String array which will be returned by the method. Please note that AND/OR can exist as a substring in the conditions as well. For eg: name='Alexander',color='Red' etc" 3 times.(˜î¸µ
+ísquid:S1192J"ÕDefine a constant instead of duplicating this literal "testGetOrderByFields():Check getOrderByFields() method. The query string can contain more than one order by fields.The query string might not contain order by clause at all. The field names, condition values might contain 'order' as a substring. For eg: order_number,job_order" 3 times.(î˜„
+csquid:CallToDeprecatedMethodJ"4Remove this use of "assertEquals"; it is deprecated.(î˜„8èòí‹¿-
+ísquid:S1192&"ÕDefine a constant instead of duplicating this literal "testGetLogicalOperators(): Retrieval of Logical Operators failed. AND/OR keyword will exist in the query only if where conditions exists and it contains multiple conditions.The extracted logical operators will be stored in a String array which will be returned by the method. " 3 times.(†å©Ş
+csquid:CallToDeprecatedMethod*"4Remove this use of "assertEquals"; it is deprecated.(†å©Ş8èòí‹¿-

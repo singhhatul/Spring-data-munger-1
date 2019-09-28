@@ -1,0 +1,11 @@
+
+‡squid:S1192K"êDefine a constant instead of duplicating this literal "testGetConditionsPartQuery() :Retrieval of conditions part failed. The conditions part contains starting from where keyword till the next keyword, which is either group by or order by clause. In case of absence of both group by and order by clause, it will contain till the end of the query string" 3 times.(æ¢ô¬üÿÿÿÿ
+csquid:CallToDeprecatedMethod5"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8ŠÖé‹¿-
+csquid:CallToDeprecatedMethodq"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8ŠÖé‹¿-
+csquid:CallToDeprecatedMethod%"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8ŠÖé‹¿-
+esquid:S1192L"NDefine a constant instead of duplicating this literal "season > 2014" 6 times.(ªıØ
+dsquid:CallToDeprecatedMethod€"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8ŠÖé‹¿-
+csquid:CallToDeprecatedMethodv"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8ŠÖé‹¿-
+csquid:CallToDeprecatedMethodl"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8ŠÖé‹¿-
+csquid:CallToDeprecatedMethod{"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8ŠÖé‹¿-
+²squid:S1192m"šDefine a constant instead of duplicating this literal "testGetConditions() :Retrieval of conditions failed. Check getConditions() method.The query can contain one or multiple conditions. In case of multiple conditions, the conditions will be separated by AND/OR keywords." 10 times.(ß­ñæ

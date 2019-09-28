@@ -1,0 +1,7 @@
+
+hsquid:CallToDeprecatedMethod("4Remove this use of "assertEquals"; it is deprecated.(ÃØµ»úÿÿÿÿ8·ªî‹¿-
+hsquid:CallToDeprecatedMethod$"4Remove this use of "assertEquals"; it is deprecated.(ÃØµ»úÿÿÿÿ8·ªî‹¿-
+¬squid:S1192>"”Define a constant instead of duplicating this literal "testGetAggregateFunctions() : Aggregate function does not return the correct values" 3 times.(±·ß
+csquid:CallToDeprecatedMethodB"4Remove this use of "assertEquals"; it is deprecated.(±·ß8·ªî‹¿-
+…squid:S1192$"èDefine a constant instead of duplicating this literal "testGetGroupByFields():Check getGroupByFields() method. The query string can contain more than one group by fields. it is also possible thant the query string might not contain group by clause at all. The field names, condition values might contain 'group' as a substring. For eg: newsgroup_name" 3 times.(ÃØµ»úÿÿÿÿ
+csquid:CallToDeprecatedMethod>"4Remove this use of "assertEquals"; it is deprecated.(±·ß8·ªî‹¿-

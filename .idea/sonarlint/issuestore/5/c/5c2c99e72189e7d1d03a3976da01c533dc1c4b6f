@@ -1,0 +1,59 @@
+
+_squid:S1192M"HDefine a constant instead of duplicating this literal "winner" 16 times.(ğÑ¾¾
+ˆsquid:S1192'"lDefine a constant instead of duplicating this literal "select city,winner,team1,team2 from ipl.csv" 4 times.(—¦Ö£ıÿÿÿÿ
+csquid:CallToDeprecatedMethodp"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+¯squid:S1192Ğ"—Define a constant instead of duplicating this literal "select city,winner,player_match from ipl1.csv where season > 2014 or city ='Bangalore'" 5 times.(—Ñæ3
+esquid:S1192"HDefine a constant instead of duplicating this literal "winner1" 4 times.(‡±Ú’úÿÿÿÿ
+csquid:CallToDeprecatedMethod:"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+‰squid:S1192j"mDefine a constant instead of duplicating this literal "select city,winner,player_match from ipl.csv" 9 times.(îĞµÍşÿÿÿÿ
+dsquid:CallToDeprecatedMethodŞ"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+csquid:CallToDeprecatedMethodK"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+csquid:S1192"FDefine a constant instead of duplicating this literal "city1" 5 times.(‡±Ú’úÿÿÿÿ
+–squid:S1192¶"~Define a constant instead of duplicating this literal "select city,winner,player_match from ipl1.csv group by winner" 4 times.(ù¨­Ì
+{squid:S1192¦"dDefine a constant instead of duplicating this literal "season > 2014 and city ='bangalore'" 3 times.(ÒõÂj
+dsquid:CallToDeprecatedMethod·"4Remove this use of "assertEquals"; it is deprecated.(±·ß8øé‹¿-
+²squid:S1192¸"™Define a constant instead of duplicating this literal "select city,winner,player_match from ipl1.csv where season1 > 2014 and city ='Bangalore'" 4 times.(È¦Ÿÿ
+°squid:S1192›"—Define a constant instead of duplicating this literal "select city,winner,player_match from ipl.csv where season > 2014 and city ='Bangalore'" 6 times.(Í½â™
+Äsquid:S1192ú"¦Define a constant instead of duplicating this literal "select city,winner,player_match from ipl1.csv where season > 2014 and city ='Bangalore' order by city" 4 times.(®ç£Ÿùÿÿÿÿ
+dsquid:CallToDeprecatedMethod¥"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethod¨"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+¥squid:S1192&"ˆDefine a constant instead of duplicating this literal "File name extraction failed. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc" 3 times.(İæŞûÿÿÿÿ
+Çsquid:S1192¥"©Define a constant instead of duplicating this literal "select count(city),sum(win_by_runs),min(win_by_runs),max(win_by_runs),avg(win_by_runs) from data/ipl.csv" 3 times.(ş¼¬îüÿÿÿÿ
+®squid:S1192Ù"–Define a constant instead of duplicating this literal "select city,winner,player_match from ipl.csv where season > 2014 or city ='Bangalore'" 7 times.(¾ÔÉ
+ squid:S1192|"ƒDefine a constant instead of duplicating this literal "select city,winner,player_match from ipl1.csv where season1 > 2014" 5 times.(÷ÚÍ¹øÿÿÿÿ
+dsquid:CallToDeprecatedMethodâ"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+•squid:S1192œ"}Define a constant instead of duplicating this literal "select city,winner,player_match from ipl.csv group by winner" 7 times.(ÅÉ—
+squid:S1192c"Define a constant instead of duplicating this literal "select city,winner,player_match from ipl.csv where season > 2014" 5 times.(¼ÆÃ•üÿÿÿÿ
+dsquid:CallToDeprecatedMethodä"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethod¦"4Remove this use of "assertEquals"; it is deprecated.(¥°™é8øé‹¿-
+dsquid:CallToDeprecatedMethod¨"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethodì"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethod "4Remove this use of "assertEquals"; it is deprecated.(¥°™é8øé‹¿-
+csquid:CallToDeprecatedMethodd"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethod"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethodî"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethodè"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethodÒ"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+°squid:S1192"—Define a constant instead of duplicating this literal "testGetSplitStrings() : Splitting query into tokens does not return the correct values" 3 times.(¥°™é
+dsquid:CallToDeprecatedMethod­"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethod©"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+esquid:S1192f"NDefine a constant instead of duplicating this literal "player_match" 13 times.(ÙšÓ
+Ásquid:S1192Û"¨Define a constant instead of duplicating this literal "select city,winner,player_match from ipl.csv where season > 2014 and city ='Bangalore' group by winner" 12 times.(« š
+Àsquid:S1192œ"¨Define a constant instead of duplicating this literal "select city,winner,player_match from ipl.csv where season > 2014 and city ='Bangalore' or city ='Delhi'" 6 times.(®‹A
+Ãsquid:S1192Õ"¥Define a constant instead of duplicating this literal "select city,winner,player_match from ipl.csv where season > 2014 and city ='Bangalore' order by city" 7 times.(Ë±ÛËøÿÿÿÿ
+dsquid:CallToDeprecatedMethodŞ"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+esquid:S1192'"IDefine a constant instead of duplicating this literal "ipl.csv" 10 times.(—¦Ö£ıÿÿÿÿ
+dsquid:CallToDeprecatedMethodê"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+ksquid:S1192ª"SDefine a constant instead of duplicating this literal "city ='bangalore'" 10 times.(íÌşÏ
+fsquid:S1192n"ODefine a constant instead of duplicating this literal "season > 2014" 11 times.(ªıØ
+dsquid:CallToDeprecatedMethod¬"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+_squid:S1192Ÿ"GDefine a constant instead of duplicating this literal "select" 3 times.(Çİê³
+dsquid:CallToDeprecatedMethodê"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethodœ"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethod"4Remove this use of "assertEquals"; it is deprecated.(¥°™é8øé‹¿-
+dsquid:CallToDeprecatedMethodØ"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethod™"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethodæ"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+dsquid:CallToDeprecatedMethod«"4Remove this use of "assertEquals"; it is deprecated.(áÁ’8øé‹¿-
+msquid:S1192<"VDefine a constant instead of duplicating this literal "select * from ipl.csv" 4 times.(­Çé²
+dsquid:CallToDeprecatedMethod¼"4Remove this use of "assertEquals"; it is deprecated.(±·ß8øé‹¿-
